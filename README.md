@@ -1,2 +1,3 @@
-# frontend-interview
-前端手写面试题
+# JavaScript手写面试题
+
+有趣的前端手写面试题
